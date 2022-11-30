@@ -3,12 +3,13 @@ layout: post
 title: k-means
 authors: [airtic21]
 tags: 
-image: ![k-means-clustering](gdsc-university-of-seoul.github.io/assets/images/post-k-means-clustering/k-means-clustering.png)
+image: gdsc-university-of-seoul.github.io/assets/images/post-k-means-clustering/k-means-clustering.png
 
 featured: true
 use_math: true
 ---
 
+ ![k-means-clustering](gdsc-university-of-seoul.github.io/assets/images/post-k-means-clustering/k-means-clustering.png)
 # 들어가며
 비지도 학습에 관심이 많은 만큼 이번 포스팅에서는 K-means 클러스터링에 대해 다뤄보겠습니다.
 클러스터링은 분류 기준이 없는 상황에서 유사한 것들을 묶어주는 것인데 그중에서 K-means 는 주어진 K 값에 따라 K 개로 그룹 지어주는 알고리즘입니다.
