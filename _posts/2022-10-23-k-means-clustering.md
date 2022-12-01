@@ -1,10 +1,9 @@
 ---
 layout: post
-title: k-means
+title: "k-means"
 authors: [airtic21]
 tags: 
-image: ![k-means-clustering](https://user-images.githubusercontent.com/115092260/202463833-46175fe8-6d53-4369-9fb7-25c56dfd1103.png)
-
+image: ../assets/images/post-k-means-clustering/k-means-clustering.png
 featured: true
 use_math: true
 ---
